@@ -1,7 +1,5 @@
 
-<p align="center" width="360" height="360">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olga Shutyleva
 
