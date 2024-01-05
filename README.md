@@ -1,9 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olga Shutyleva
-
-Front-end developer (Angular)
 ---
 
-I'm a frontend developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world! 🚀
+I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world! 🚀
 
 * 🖥️  See my portfolio at [MyPortfolio](http://shytuleva24.github.io/angular/)
 * ✉️  You can contact me at [shytuleva@gmail.com](mailto:shytuleva@gmail.com)
