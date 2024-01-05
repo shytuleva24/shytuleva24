@@ -4,7 +4,7 @@ I'm a front-end developer specializing in Angular. I bring experience from my ti
 
 * 🖥️  See my portfolio at [MyPortfolio](http://shytuleva24.github.io/angular/)
   
-* ✉️  You can contact me at [shytuleva@gmail.com](mailto:shytuleva@gmail.com)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olga_shutyleva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olga_shutyleva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
   
 * 🚀  I'm currently working on [baza-trainee](http://baza-trainee.github.io/1001-songs-frontend/#/)
 
