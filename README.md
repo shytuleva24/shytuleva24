@@ -10,10 +10,7 @@ I'm a front-end developer specializing in Angular. I bring experience from my ti
   
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olga_shutyleva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olga_shutyleva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
 
-
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+---
 
 ### 💻 Technologies:
 
@@ -51,8 +48,6 @@ I'm a front-end developer specializing in Angular. I bring experience from my ti
     </a>
 </p>
 
----
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/shytuleva24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shytuleva24&stroke=64748b&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<p align="center" width="360" height="360">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
