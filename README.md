@@ -1,3 +1,8 @@
+
+<p align="center" width="360" height="360">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olga Shutyleva
 
 👨‍💻 About Me:
@@ -46,8 +51,4 @@ I'm a front-end developer specializing in Angular. I bring experience from my ti
   <a href="https://www.linkedin.com/in/olga-shutyleva/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-</p>
-
-<p align="center" width="360" height="360">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
