@@ -1,14 +1,15 @@
 
 # Hi my name is Olga Shutyleva ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f12d5eb3-e3fa-4ac6-9871-dbabb66ec9ae/dc0shxf-1b3bee99-6592-4037-b043-74827eedcb23.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxMmQ1ZWIzLWUzZmEtNGFjNi05ODcxLWRiYWJiNjZlYzlhZVwvZGMwc2h4Zi0xYjNiZWU5OS02NTkyLTQwMzctYjA0My03NDgyN2VlZGNiMjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v76y_YYtT5lTvyqlFJn_ssJMIVlyECQ-2Knr8myqMJM)
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="40%" />
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="250"/>
 
-### 👨‍💻 About Me:
+  ### 👨‍💻 About Me:
 
-I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world!🚀
-  
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olga_shutyleva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olga_shutyleva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
-
+  <span>I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world!🚀</span>
+    
+  * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olga_shutyleva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olga_shutyleva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
+ <div align="left"  width="400" height="250" ></div>
+ 
 ---
 
 ### 💻 Technologies:
