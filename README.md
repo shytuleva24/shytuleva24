@@ -1,5 +1,5 @@
 
-# Hi my name is Olga Shutyleva <img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" alt="thank you for visiting my page" height="75" width="75">
+# Hi my name is Olga Shutyleva <img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" alt="thank you for visiting my page" height="50" width="50">
 <img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" alt="thank you for visiting my page" height="75" width="75">
 
 👨‍💻 About Me:
