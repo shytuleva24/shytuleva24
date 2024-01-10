@@ -1,14 +1,6 @@
 
-# Hi my name is Olga Shutyleva 
+# Hi my name is Olga Shutyleva <img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" alt="thank you for visiting my page" height="75" width="75">
 <img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" alt="thank you for visiting my page" height="75" width="75">
-
-![thank you for visiting my page](https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif)
-
-<img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" height="100" width="100">
-
-
-
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 👨‍💻 About Me:
 
