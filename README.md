@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 
-I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world! 
+I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world!
 
 * 🚀  I'm currently working on [baza-trainee](http://baza-trainee.github.io/1001-songs-frontend/#/)
   
