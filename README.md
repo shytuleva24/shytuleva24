@@ -1,6 +1,8 @@
 
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi my name is Olga Shutyleva
 
+![](https://media.giphy.com/media/8YBM61XW2vZJykO0j4/giphy.gif)
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 👨‍💻 About Me:
