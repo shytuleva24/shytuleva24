@@ -1,7 +1,7 @@
 
 # Hi my name is Olga Shutyleva ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f12d5eb3-e3fa-4ac6-9871-dbabb66ec9ae/dc0shxf-1b3bee99-6592-4037-b043-74827eedcb23.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxMmQ1ZWIzLWUzZmEtNGFjNi05ODcxLWRiYWJiNjZlYzlhZVwvZGMwc2h4Zi0xYjNiZWU5OS02NTkyLTQwMzctYjA0My03NDgyN2VlZGNiMjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v76y_YYtT5lTvyqlFJn_ssJMIVlyECQ-2Knr8myqMJM)
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="50%" />
 
 ### 👨‍💻 About Me:
 
