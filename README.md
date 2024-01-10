@@ -1,6 +1,8 @@
 
 # Hi my name is Olga Shutyleva <img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" alt="thank you for visiting my page" height="75" width="75" style="vertical-align: bottom;">
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 👨‍💻 About Me:
 
 I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world! 🚀
