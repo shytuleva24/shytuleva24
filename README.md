@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-👨‍💻 About Me:
+### 👨‍💻 About Me:
 
 I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world! 🚀
 
@@ -28,6 +28,12 @@ I'm a front-end developer specializing in Angular. I bring experience from my ti
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>  
   <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 </p>
+
+---
+
+<a href="http://www.github.com/shytuleva24"><img src="https://github-readme-stats.vercel.app/api?username=shytuleva24&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="shytuleva24's GitHub stats" /></a>
+
+<a href="http://www.github.com/shytuleva24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shytuleva24&stroke=64748b&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
 ---
 
