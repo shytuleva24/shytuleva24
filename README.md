@@ -33,8 +33,6 @@ I'm a front-end developer specializing in Angular. I bring experience from my ti
 
 <a href="http://www.github.com/shytuleva24"><img src="https://github-readme-stats.vercel.app/api?username=shytuleva24&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="shytuleva24's GitHub stats" /></a>
 
-<a href="http://www.github.com/shytuleva24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shytuleva24&stroke=64748b&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
 ---
 
 Thank you for visiting my page
