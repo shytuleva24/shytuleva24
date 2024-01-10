@@ -1,8 +1,8 @@
 
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi my name is Olga Shutyleva
 
-![](https://tenor.com/ru/view/winking-wink-emoji-emoticon-cute-gif-17379179](https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif)
-![](https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif)
+![thank you for visiting my page](https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif){:height="100px" width="100px"}
+
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
