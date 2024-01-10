@@ -5,12 +5,15 @@
 
   ### 👨‍💻 About Me:
 
+
   <span>I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world!🚀</span>
+
     
   * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olga_shutyleva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olga_shutyleva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
- <div align="left"  width="400" height="250" ></div>
  
 ---
+
+<img align="left" src="[https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://kartinki.pics/pics/uploads/posts/2022-08/1661450875_1-kartinkin-net-p-pustoi-prozrachnii-fon-krasivo-1.png)" width="400" height="300"/>
 
 ### 💻 Technologies:
 
