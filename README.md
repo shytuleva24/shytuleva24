@@ -5,10 +5,7 @@
 
   ### 👨‍💻 About Me:
 
-
-  <span>I'm a front-end developer specializing in Angular. I bring experience from my time at Baza Trainee Ukraine, where I honed my skills. In addition to my professional background, I teach HTML and CSS courses for children and actively engage in freelance projects. Explore my GitHub page for a showcase of my work and interesting projects. Welcome to my coding world!🚀</span>
-
-  * 🖥️  I'm currently working on a project [1001-songs](https://github.com/baza-trainee/1001-songs-frontend)
+  <span>Hi! I am a highly motivated developer with a passion for creativity and constantly searching for new ideas. I have successfully managed several international projects. In addition to my primary work, I volunteer by teaching children HTML and CSS, hoping to inspire them to develop a love for coding. My life motto is: "There is nothing impossible, only a lack of experience." I love traveling and am always open to new challenges🚀</span>
     
   * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-olga_shutyleva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olga_shutyleva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shytuleva@gmail.com)
  
